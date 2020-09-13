@@ -4,8 +4,6 @@ from django.db import models
 
 class User(AbstractUser):
 
-    """수정"""
-
     """ Custom User Model"""
 
     GENDER_MALE = "male"
