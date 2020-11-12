@@ -1,6 +1,7 @@
 # from django.utils import timezone
 from django.views.generic import ListView, DeleteView
 from django.shortcuts import render
+from django_countries import countries
 
 # from django.http import Http404
 # from django.shortcuts import render
@@ -41,6 +42,11 @@ class RoomDetail(DeleteView):
 
 
 def search(request):
-    city = request.GET.get("city")
+    city = request.GET.get("city", "Anywhere")
     city = str.capitalize(city)
-    return render(request, "rooms/search.html", {"city": city})
+    room_types = models.RoomType.objects.all()
+    return render(
+        request,
+        "rooms/search.html",
+        {"city": city, "countiries": countries, "room_types": room_types},
+    )
