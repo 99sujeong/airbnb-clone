@@ -1,0 +1,191 @@
+[33mcommit 4c32bc6c88da1a5e4435aca371a9a9298739323a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Thu Nov 12 23:33:54 2020 +0900
+
+    SEARCHVIEW 3-4 - Finishing the Form
+
+[33mcommit 85b3589298e40e6e80f3cf94413900b5252d1c07[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Thu Nov 12 22:57:22 2020 +0900
+
+    SEARCHVIEW 2 - Select Choices
+
+[33mcommit d454f9a0367915a3b8b3d4a8b32795bd4285790f[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Thu Nov 12 22:45:43 2020 +0900
+
+    SEARCHVIEW 1
+
+[33mcommit c808110d5b91a0889af35b459f9c4a2555ef1348[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Thu Nov 12 22:26:58 2020 +0900
+
+    SEARCHVIEW 0
+
+[33mcommit aeedf93c2d5f999382f5d00f6db275c73d4429cd[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 10 21:07:39 2020 +0900
+
+    DETAILVIEW FINAL - settings.py 수정
+
+[33mcommit 18c7b403b2b79ab7c0d214bc5e5c6dfb25e5785d[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 10 21:04:43 2020 +0900
+
+    DETAILVIEW FINAL - DetailView Class Based View
+
+[33mcommit cf797185bf3864d82a270638e1c887f62097160f[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 10 20:56:20 2020 +0900
+
+    DETAILVIEW PART 2 - Http404() -> Http404()를 raise 하는 것만으로도 Django 알아서 404.html render하는 것
+
+[33mcommit 755ce01d7c6bfc6b13b525ed3fe3843fa0f6f4e2[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 10 20:50:03 2020 +0900
+
+    DETAILVIEW PART 1 - urls and arguments
+
+[33mcommit e7d227b889fcd7681369ece203490ec88666e8aa[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Nov 9 23:32:44 2020 +0900
+
+    HOMEVIEW FINALL - Class Based View
+
+[33mcommit 1b084b7f0fd4cf9188c99c8b66351fddffc111ec[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Nov 9 22:59:59 2020 +0900
+
+    HOMEVIEW PART 3 - get_page vs page / orphans / Excptions
+
+[33mcommit ae5704282128b3fae4735aa1c81d55bbb5433514[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Nov 9 22:42:50 2020 +0900
+
+    HOMEVIEW PART 2-2 - Django Paginator
+
+[33mcommit e70fcef0a0fb66e40a3571bdd90211446856a0f9[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Nov 9 22:27:33 2020 +0900
+
+    HOMEVIEW PART2 - Next Previous Page Navigation
+
+[33mcommit 31cbc4cb195247e3c90ef4237ccfb60390626635[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Nov 9 22:19:39 2020 +0900
+
+    HOMEVIEW-Pages List Navigation
+
+[33mcommit 2b36cec0c37b1741bfa2d7018068f4c15b9f9639[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Sat Nov 7 00:49:51 2020 +0900
+
+    INTRODUCTION TO VIEWS AND URLS PART 3 FINALL - Extending Templates and includes
+
+[33mcommit 3166366869f2926c8d5d5737b2cd717bb5693d61[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Sat Nov 7 00:10:35 2020 +0900
+
+    INTRODUCTION TO VIEWS AND URLS PART 2-2 - Introduction to Django Templates
+
+[33mcommit a56c88d377a328fac43af821af34c15258785c61[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Fri Nov 6 23:56:22 2020 +0900
+
+    INTRODUCTION TO VIEWS AND URLS PART 2 - HttpResponse and render
+
+[33mcommit a3666f03918b00eeabd05b32aa9dae91309bd3f6[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Thu Nov 5 21:58:27 2020 +0900
+
+    INTRODUCTION TO VIEWS AND URLS 1
+
+[33mcommit 9fc7ba096b73fa1145c17e38a2bc74cad7bd1f1b[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 3 02:55:41 2020 +0900
+
+    CUSTOM COMMANDS AND SEEDING PART 3 FINALLL
+
+[33mcommit 99c5e27d1207b710f71cdb4c68d4a669d3c4c6d7[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Nov 3 01:35:03 2020 +0900
+
+    CUSTOM COMMANDS AND SEEDING PART 2
+
+[33mcommit aa95f61dec5bf19ba2cb329731e73532a7f7ded6[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Sun Nov 1 22:50:54 2020 +0900
+
+    CUSTOM COMMANDS AND SEEDING PART 1
+
+[33mcommit 271e3a00e5efcb35bef2b3f9f72250cd79441ff7[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Sun Nov 1 17:36:37 2020 +0900
+
+    MORE ADMINS! PART 3
+
+[33mcommit 95ba192a39e5e311ba7c11899f6729718ed0909a[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 22 22:01:17 2020 +0900
+
+    MORE ADMINS! PART 2
+
+[33mcommit f470e4347849ab7fe3333eb18fed62fa2a8951dd[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 22 00:49:37 2020 +0900
+
+    MORE ADMINS! PART1
+
+[33mcommit 92709b0bf737b4a0d9d92887caeb98a7576fec52[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Sep 21 22:45:21 2020 +0900
+
+    MODELS AND QUERYSETS
+
+[33mcommit f015a5d90d983ebacec2f6b72d81fe3520cebee2[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 15 19:43:34 2020 +0900
+
+    ROOM ADMIN
+
+[33mcommit 69fce800c99afbd6877d6c7268b45f4eb0276861[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 15 00:29:39 2020 +0900
+
+    OTHER APPS
+
+[33mcommit 7708fecf41a5db3cc1cbab7b120a3d4152f77d12[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Sep 14 23:28:22 2020 +0900
+
+    Room App
+
+[33mcommit 06b997b9fc23ef1720212f5d7bdd204f1173bb8e[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Sep 14 00:29:22 2020 +0900
+
+    finaluserapp
+
+[33mcommit 73e70445f8622946cb55d54c080f73cd6a0fbcb9[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Sep 14 00:20:48 2020 +0900
+
+    userapp
+
+[33mcommit 9622fb1a4735245edb1256100e880b75028811d4[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Mon Sep 14 00:07:39 2020 +0900
+
+    user-admin
+
+[33mcommit 8873fb27a12ff367b1c464037e6b26db5d2889cc[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 8 18:37:39 2020 +0900
+
+    first2
+
+[33mcommit 319086b2e8d38070aac7bcd011a5eb4dba41950d[m
+Author: 99sujeong <ansdbs146@gmail.com>
+Date:   Tue Sep 8 18:33:16 2020 +0900
+
+    first airbnb

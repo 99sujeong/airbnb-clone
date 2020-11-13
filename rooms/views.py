@@ -82,4 +82,15 @@ def search(request):
         "facilities": facilities,
     }
 
+    filter_args = {}
+
+    if city != "Anywhere":
+        filter_args["city__startswith"] = city
+
+    # print(filter_args)
+
+    rooms = models.Room.objects.filter(**filter_args)
+
+    # print(rooms)
+
     return render(request, "rooms/search.html", {**form, **choices})
